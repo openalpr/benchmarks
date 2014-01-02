@@ -1,0 +1,207 @@
+Image: car-0.png
+ -- End to End recognition time: 494.849ms.
+ -- Region detection time: 489.37ms.
+Image: car-1.png
+ -- End to End recognition time: 344.31ms.
+ -- Region detection time: 192.438ms.
+	Region 0: State ID time: 44.967ms.
+	Region 0: Analysis time: 64.8366ms.
+	Region 0: OCR time: 37.511ms.
+	Region 0: PostProcess time: 0.247576ms.
+Image: car-10.png
+ -- End to End recognition time: 254.384ms.
+ -- Region detection time: 69.5549ms.
+	Region 0: State ID time: 76.9855ms.
+	Region 0: Analysis time: 62.0561ms.
+	Region 0: OCR time: 43.1828ms.
+	Region 0: PostProcess time: 0.959062ms.
+Image: car-11.png
+ -- End to End recognition time: 325.078ms.
+ -- Region detection time: 201.577ms.
+	Region 0: State ID time: 34.4609ms.
+	Region 0: Analysis time: 61.3356ms.
+	Region 0: OCR time: 21.4632ms.
+	Region 0: PostProcess time: 0.171316ms.
+Image: car-12.png
+ -- End to End recognition time: 312.977ms.
+ -- Region detection time: 201.827ms.
+	Region 0: State ID time: 35.3381ms.
+	Region 0: Analysis time: 52.4789ms.
+	Region 0: OCR time: 19.5338ms.
+	Region 0: PostProcess time: 0.322915ms.
+Image: car-13.png
+ -- End to End recognition time: 366.533ms.
+ -- Region detection time: 271.857ms.
+	Region 0: State ID time: 23.8843ms.
+	Region 0: Analysis time: 54.595ms.
+	Region 0: OCR time: 9.06138ms.
+	Region 0: PostProcess time: 0.099734ms.
+	Region 1: State ID time: 19.6622ms.
+	Region 1: Analysis time: 22.6985ms.
+Image: car-14.png
+ -- End to End recognition time: 361.535ms.
+ -- Region detection time: 155.739ms.
+	Region 0: State ID time: 79.8776ms.
+	Region 0: Analysis time: 62.3018ms.
+	Region 0: OCR time: 53.105ms.
+	Region 0: PostProcess time: 3.16265ms.
+Image: car-15.png
+ -- End to End recognition time: 357.609ms.
+ -- Region detection time: 146.128ms.
+	Region 0: State ID time: 47.6678ms.
+	Region 0: Analysis time: 64.7761ms.
+	Region 0: OCR time: 58.3721ms.
+	Region 0: PostProcess time: 2.43931ms.
+	Region 1: State ID time: 29.0942ms.
+	Region 1: Analysis time: 19.9958ms.
+	Region 2: State ID time: 70.1432ms.
+	Region 2: Analysis time: 26.0348ms.
+Image: car-16.png
+ -- End to End recognition time: 67.0189ms.
+ -- Region detection time: 46.0787ms.
+	Region 0: State ID time: 28.4993ms.
+	Region 0: Analysis time: 20.6378ms.
+Image: car-17.png
+ -- End to End recognition time: 198.14ms.
+ -- Region detection time: 47.6371ms.
+	Region 0: State ID time: 54.0238ms.
+	Region 0: Analysis time: 61.3735ms.
+	Region 0: OCR time: 37.7295ms.
+	Region 0: PostProcess time: 0.168907ms.
+Image: car-18.png
+ -- End to End recognition time: 215.192ms.
+ -- Region detection time: 58.9949ms.
+	Region 0: State ID time: 56.3233ms.
+	Region 0: Analysis time: 62.2217ms.
+	Region 0: OCR time: 36.321ms.
+	Region 0: PostProcess time: 0.087688ms.
+Image: car-19.png
+ -- End to End recognition time: 375.942ms.
+ -- Region detection time: 222.077ms.
+	Region 0: State ID time: 63.654ms.
+	Region 0: Analysis time: 66.9885ms.
+	Region 0: OCR time: 32.9377ms.
+	Region 0: PostProcess time: 1.84808ms.
+Image: car-2.png
+ -- End to End recognition time: 543.928ms.
+ -- Region detection time: 258.72ms.
+	Region 0: State ID time: 14.3075ms.
+	Region 0: Analysis time: 59.633ms.
+	Region 0: OCR time: 18.7523ms.
+	Region 0: PostProcess time: 1.68886ms.
+	Region 1: State ID time: 61.7844ms.
+	Region 1: Analysis time: 63.179ms.
+	Region 1: OCR time: 52.0646ms.
+	Region 1: PostProcess time: 13.8329ms.
+Image: car-20.png
+ -- End to End recognition time: 181.96ms.
+ -- Region detection time: 36.5831ms.
+	Region 0: State ID time: 51.4933ms.
+	Region 0: Analysis time: 61.9583ms.
+	Region 0: OCR time: 35.2844ms.
+	Region 0: PostProcess time: 0.258265ms.
+Image: car-21.png
+ -- End to End recognition time: 493.565ms.
+ -- Region detection time: 385.092ms.
+	Region 0: State ID time: 23.3679ms.
+	Region 0: Analysis time: 53.9668ms.
+	Region 0: OCR time: 21.9598ms.
+	Region 0: PostProcess time: 0.071019ms.
+Image: car-3.png
+ -- End to End recognition time: 506.937ms.
+ -- Region detection time: 348.847ms.
+	Region 0: State ID time: 58.4913ms.
+	Region 0: Analysis time: 66.429ms.
+	Region 0: OCR time: 43.5181ms.
+	Region 0: PostProcess time: 0.500875ms.
+Image: car-4.png
+ -- End to End recognition time: 203.166ms.
+ -- Region detection time: 54.7494ms.
+	Region 0: State ID time: 37.9304ms.
+	Region 0: Analysis time: 60.9107ms.
+	Region 0: OCR time: 43.3066ms.
+	Region 0: PostProcess time: 2.91009ms.
+Image: car-5.png
+ -- End to End recognition time: 175.5ms.
+ -- Region detection time: 60.763ms.
+	Region 0: State ID time: 43.2645ms.
+	Region 0: Analysis time: 52.3267ms.
+	Region 0: OCR time: 21.6052ms.
+	Region 0: PostProcess time: 0.526046ms.
+Image: car-6.png
+ -- End to End recognition time: 260.19ms.
+ -- Region detection time: 62.7393ms.
+	Region 0: State ID time: 50.2037ms.
+	Region 0: Analysis time: 60.692ms.
+	Region 0: OCR time: 37.2533ms.
+	Region 0: PostProcess time: 48.9582ms.
+Image: car-7.png
+ -- End to End recognition time: 279.199ms.
+ -- Region detection time: 65.5956ms.
+	Region 0: State ID time: 12.9804ms.
+	Region 0: Analysis time: 52.8102ms.
+	Region 0: OCR time: 25.8826ms.
+	Region 0: PostProcess time: 6.22335ms.
+	Region 1: State ID time: 20.9501ms.
+	Region 1: Analysis time: 62.6591ms.
+	Region 1: OCR time: 28.5098ms.
+	Region 1: PostProcess time: 12.407ms.
+Image: car-8.png
+ -- End to End recognition time: 195.672ms.
+ -- Region detection time: 67.06ms.
+	Region 0: State ID time: 40.8334ms.
+	Region 0: Analysis time: 55.6882ms.
+	Region 0: OCR time: 27.0636ms.
+	Region 0: PostProcess time: 5.43145ms.
+Image: car-9.png
+ -- End to End recognition time: 653.78ms.
+ -- Region detection time: 165.081ms.
+	Region 0: State ID time: 38.7387ms.
+	Region 0: Analysis time: 19.9549ms.
+	Region 1: State ID time: 134.071ms.
+	Region 1: Analysis time: 28.7324ms.
+	Region 2: State ID time: 108.917ms.
+	Region 2: Analysis time: 25.7404ms.
+	Region 3: State ID time: 123.114ms.
+	Region 3: Analysis time: 27.8515ms.
+	Region 4: State ID time: 88.0812ms.
+	Region 4: Analysis time: 24.0466ms.
+	Region 5: State ID time: 116.253ms.
+	Region 5: Analysis time: 26.7477ms.
+	Region 6: State ID time: 160.456ms.
+	Region 6: Analysis time: 32.3758ms.
+	Region 7: State ID time: 137.634ms.
+	Region 7: Analysis time: 30.1518ms.
+	Region 8: State ID time: 0.189708ms.
+	Region 8: Analysis time: 26.7482ms.
+	Region 9: State ID time: 171.648ms.
+	Region 9: Analysis time: 29.8573ms.
+	Region 10: State ID time: 161.701ms.
+	Region 10: Analysis time: 31.746ms.
+	Region 11: State ID time: 81.8262ms.
+	Region 11: Analysis time: 70.058ms.
+	Region 11: OCR time: 48.3784ms.
+	Region 11: PostProcess time: 0.545031ms.
+
+---------------------
+End to End Time Statistics:
+	22 samples, avg: 325.794ms,  stdev: 140.451
+
+Region Detection Time Statistics:
+	22 samples, avg: 164.023ms,  stdev: 122.936
+
+State ID Time Statistics:
+	37 samples, avg: 64.941ms,  stdev: 44.7772
+
+Positive Region Analysis Time Statistics:
+	22 samples, avg: 60.6034ms,  stdev: 4.86854
+
+Negative Region Analysis Time Statistics:
+	15 samples, avg: 26.2213ms,  stdev: 3.94286
+
+OCR Time Statistics:
+	22 samples, avg: 34.218ms,  stdev: 12.5429
+
+Post Processing Time Statistics:
+	22 samples, avg: 4.67547ms,  stdev: 10.3622
+
