@@ -1,0 +1,1 @@
+Add a benchmark test to gauge performance of the plate detection
