@@ -5,7 +5,7 @@ Given a benchmark, and a list of settings, the ALPR experiment will communicate 
 the next values to use.  It also keeps track of the results and stops it when the experiment is complete.
 '''
 
-import sys
+import sys, time
 from moe.easy_interface.experiment import Experiment
 from moe.optimal_learning.python.data_containers import SamplePoint
 import moe.easy_interface.simple_endpoint as simple_endpoint
@@ -53,18 +53,30 @@ class AlprExperiment:
         inverted_result = 100-result
 
         self.moe.historical_data.append_sample_points([
-            SamplePoint(self._getValues(), inverted_result )
+            SamplePoint(self._getValues(), inverted_result, 0.1 )
         ])
 
-        print "Experiment Results: " + str(result)
+        print "  -- Results: " + str(result)
 
         for setting in self.settings:
-            print "  -- " + str(setting)
+            print "    -- " + str(setting)
 
-        next_points_to_sample = simple_endpoint.gp_next_points(self.moe)[0]
-        self._updateSettings(next_points_to_sample)
+        self._getNextParamFromMOE()
 
         sys.stdout.flush()
+
+    def _getNextParamFromMOE(self):
+
+        while True:
+            try:
+                next_points_to_sample = simple_endpoint.gp_next_points(self.moe)[0]
+                self._updateSettings(next_points_to_sample)
+                break
+            except:
+                pass
+
+            print "Error connecting to MOE.  Retrying..."
+            time.sleep(2.0)
 
     def _getValues(self):
         value_array = []
